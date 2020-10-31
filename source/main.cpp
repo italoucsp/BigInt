@@ -1,5 +1,7 @@
 #include <BigInt.hpp>
 
 int main(){
-    return 0;
+  int q;
+  cin >> q;
+  return 0;
 }
